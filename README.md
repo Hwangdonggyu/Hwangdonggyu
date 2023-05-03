@@ -29,6 +29,13 @@
 
 <br/>
 <br/>
+
+<div align='center'>
+
+### I’m currently working on my best 🌱
+
+</div>
+
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangdonggyu&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=Hwangdonggyu&show_icons=true">
