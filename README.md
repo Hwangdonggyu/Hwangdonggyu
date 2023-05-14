@@ -1,13 +1,8 @@
 
 <div align="center" style = "margin-left: 5000px">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=edf7fb)
+![header](https://capsule-render.vercel.app/api?type=waving&text=😄Hello,%20I'm%20Donggyu!!😄&color=timeGradient&fontSize=35)
 
-## 😄Hello, I'm Donggyu!!😄
-
-
-
- <br/>
  <br/>
  
 ####  💻 At least once used 💻
@@ -39,6 +34,6 @@
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangdonggyu&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=Hwangdonggyu&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=Hwangdonggyu&show_icons=true"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangdonggyu&layout=compact">
 </div>
