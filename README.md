@@ -5,7 +5,7 @@
 
  <br/>
  
-####  💻 At least once used 💻
+####  💻 Tech Stacks 💻
 
 <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-round&logo=C&logoColor=white">
@@ -23,12 +23,26 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=Slack&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
+
+💬 Contact
+
+<a href="https://velog.io/@acadias12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-round&logo=velog&logoColor=white"/>
+
+
+
 </div>
 
+
 <br/>
 <br/>
 
-![Snake animation](https://github.com/hwangdonggyu/hwangdonggyu/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 <div align='center'>
 
