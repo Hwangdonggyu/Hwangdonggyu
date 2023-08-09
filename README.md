@@ -16,6 +16,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"/>
 <br/>
+ <img src="https://img.shields.io/badge/Numpy-3178C6?style=flat&logo=numpy&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-round&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>
