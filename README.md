@@ -31,7 +31,13 @@
 💬 Contact
 
 <a href="https://velog.io/@acadias12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-round&logo=velog&logoColor=white"/>
+<a href="https://hwangdonggyu.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat-round&logo=githubpages&logoColor=white"/>
 
+<br/>
+
+```
+📧 E-mail : hdg2342@naver.com
+```
 
 
 </div>
