@@ -3,6 +3,7 @@
 - 🏢 School major Academy TAB
 - 🏢 UMC 4th Node.js part member
 - 🏢 GDSC(Google Developer Students Club) HUFS 5th part member
+- 🏢 LAB HAI Undergraduate researcher 2023.12~
 
 ### Tech blog
 
