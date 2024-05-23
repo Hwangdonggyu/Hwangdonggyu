@@ -5,7 +5,15 @@
 - 🏢 LAB HAI Undergraduate researcher 2023.12~
 
 ### 📚Skill
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logos=slackh&logoColor=white">
+<hr />
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,anaconda,pytorch,tensorflow" /><br>
+</div>
+
+<br/>
+<hr/>
 
 ### Tech blog
 
