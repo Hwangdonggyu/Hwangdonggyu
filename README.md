@@ -2,6 +2,7 @@
 - 🏫 Hankuk University of Foreign Studies CSE
 - 🏢 School major Academy TAB
 - 🏢 UMC 4th Node.js part member
+- ✈️ Attended a short-term AI/SW study abroad program 2023.03.29 ~ 2024.04.07
 - 🏢 LAB HAI Undergraduate researcher 2023.12~
 
 ### 📚Skill
