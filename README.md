@@ -39,4 +39,4 @@
 </br>
 
 :pencil2: Latest Blog Posts
-<ul><li><a href='https://huray.tistory.com/10' target='_blank'>[Paper review] RobustSAM: Segment Anything Robustly on Degraded Image</a></li><li><a href='https://huray.tistory.com/9' target='_blank'>[블로그 이전] Tistory로 넘어왔습니다~!</a></li></ul>
+<ul><li><a href='https://huray.tistory.com/11' target='_blank'>[Paper Review] Blackbox Adaptation for Medical Image Segmentation</a></li><li><a href='https://huray.tistory.com/10' target='_blank'>[Paper review] RobustSAM: Segment Anything Robustly on Degraded Image</a></li><li><a href='https://huray.tistory.com/9' target='_blank'>[블로그 이전] Tistory로 넘어왔습니다~!</a></li></ul>
