@@ -22,8 +22,10 @@ let text = `
 
 ### Tech blog
 
-<a href="https://huray.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory" alt="Tistory"/></a>
-<a href="https://hwangdonggyu.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat-round&logo=githubpages&logoColor=white"/></a>
+<p align="left">
+  <a href="https://huray.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory" alt="Tistory" style="margin:0;padding:0;"/></a><a href="https://hwangdonggyu.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat-round&logo=githubpages&logoColor=white" alt="GitHub Pages" style="margin:0;padding:0;"/></a>
+</p>
+
 
 ### 💬Contact
 
