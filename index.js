@@ -22,7 +22,9 @@ let text = `
 
 ### Tech blog
 
-<a href="https://velog.io/@acadias12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-round&logo=velog&logoColor=white"/></a>
+<a href="https://huray.tistory.com/">
+  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=huray" alt="Tistory"/>
+</a>
 <a href="https://hwangdonggyu.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat-round&logo=githubpages&logoColor=white"/></a>
 
 ### 💬Contact
@@ -33,7 +35,7 @@ let text = `
 
 </br>
 
-![Dong_gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangdonggyu&show_icons=true&theme=vision-friendly-dark)
+:pencil2: Latest Blog Posts
 `;
 
 
