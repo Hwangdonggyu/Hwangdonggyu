@@ -1,0 +1,17 @@
+{
+  "name": "hwangdonggyu",
+  "version": "1.0.0",
+  "description": "- 🏫 Hankuk University of Foreign Studies(HUFS) CSE - 🏢 School major Academy TAB - 🏢 UMC 4th Node.js part member - ✈️ Attended a short-term AI/SW study abroad program 2023.03.29 ~ 2024.04.07 - 🏢 HUFS LAB HAI Undergraduate researcher 2023.12~ 2025.07",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
