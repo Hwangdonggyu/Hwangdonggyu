@@ -1,8 +1,9 @@
+
 ### 💬About me
 - 🏫 Hankuk University of Foreign Studies(HUFS) CSE
 - 🏢 School major Academy TAB
 - 🏢 UMC 4th Node.js part member
-- ✈️ Attended a short-term AI/SW study abroad program 2023.03.29 ~ 2024.04.07
+- ✈️Attended a short-term AI/SW study abroad program 2023.03.29 ~ 2024.04.07
 - 🏢 HUFS LAB HAI Undergraduate researcher 2023.12~ 2025.07
 
 ### 📚Skill
@@ -18,8 +19,8 @@
 
 ### Tech blog
 
-<a href="https://velog.io/@acadias12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-round&logo=velog&logoColor=white"/>
-<a href="https://hwangdonggyu.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat-round&logo=githubpages&logoColor=white"/>
+<a href="https://velog.io/@acadias12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-round&logo=velog&logoColor=white"/></a>
+<a href="https://hwangdonggyu.github.io/"><img src="https://img.shields.io/badge/githubpages-222222?style=flat-round&logo=githubpages&logoColor=white"/></a>
 
 ### 💬Contact
 
@@ -30,3 +31,4 @@
 </br>
 
 ![Dong_gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangdonggyu&show_icons=true&theme=vision-friendly-dark)
+<ul><li><a href='https://huray.tistory.com/10' target='_blank'>[Paper review] RobustSAM: Segment Anything Robustly on Degraded Image</a></li><li><a href='https://huray.tistory.com/9' target='_blank'>[블로그 이전] Tistory로 넘어왔습니다~!</a></li></ul>
