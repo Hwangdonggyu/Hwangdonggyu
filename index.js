@@ -56,7 +56,7 @@ const parser = new Parser({
 
     // 피드 목록
     const feed = await parser.parseURL('https://huray.tistory.com/rss'); // 본인의 블로그 주소
-    const postCount = Math.min(feed.items.length, 10)
+    const postCount = Math.min(feed.items.length, 5)
 
     text += `<ul>`;
 
