@@ -1,10 +1,11 @@
 
 ### 💬About me
-- 🏫 Hankuk University of Foreign Studies(HUFS) CSE
-- 🏢 School major Academy TAB
-- 🏢 UMC 4th Node.js part member
+- 🏫 Hankuk University of Foreign Studies(HUFS) CSE 2020.03 ~ 2026.02 (B.S. degree)
+- 🏢 School major Academy TAB (HUFS)
 - ✈️Attended a short-term AI/SW study abroad program 2023.03.29 ~ 2024.04.07
 - 🏢 HUFS LAB HAI Undergraduate researcher 2023.12~ 2025.07
+- 🏫 Sungkyunkwan University(SKKU) Department of Artificial Intelligence (M.S. degree)
+- 🏢 SKKU MedVIL Undergraduate & M.S. student 2025.07 ~
 
 ### 📚Skill
 <hr />
@@ -33,7 +34,7 @@
 ### 💬Contact
 
 ```
-📧 E-mail : hdg2342@naver.com
+📧 E-mail : acadias12@g.skku.edu
 ```
 
 </br>
