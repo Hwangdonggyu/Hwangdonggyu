@@ -1,10 +1,10 @@
 
 ### 💬About me
-- 🏫 Hankuk University of Foreign Studies(HUFS) CSE 2020.03 ~ 2026.02 (B.S. degree)
+- 🏫 Hankuk University of Foreign Studies(HUFS) CSE (B.S. degree) 2020.03 ~ 2026.02
 - 🏢 School major Academy TAB (HUFS)
 - ✈️Attended a short-term AI/SW study abroad program 2023.03.29 ~ 2024.04.07
 - 🏢 HUFS LAB HAI Undergraduate researcher 2023.12~ 2025.07
-- 🏫 Sungkyunkwan University(SKKU) Department of Artificial Intelligence (M.S. degree)
+- 🏫 Sungkyunkwan University(SKKU) Department of Artificial Intelligence (M.S. degree) 2026.03 ~
 - 🏢 SKKU MedVIL Undergraduate & M.S. student 2025.07 ~
 
 ### 📚Skill
