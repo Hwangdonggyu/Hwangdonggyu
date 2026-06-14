@@ -32,7 +32,7 @@
 ### 💬Contact
 
 ```
-📧 E-mail : acadias12@g.skku.edu
+📧 E-mail : hdg2342@naver.com
 ```
 
 </br>
