@@ -39,3 +39,8 @@
 
 :pencil2: Latest Blog Posts
 <ul><li><a href='https://huray.tistory.com/18' target='_blank'>[Paper Review] AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis</a></li><li><a href='https://huray.tistory.com/17' target='_blank'>[Paper Review] 3D-SAutoMed: Automatic Segment AnythingModel for 3D Medical Image Segmentation fromLocal-Global Perspective</a></li><li><a href='https://huray.tistory.com/16' target='_blank'>[Paper Review] SHORTFT: Diffusion Model Alignment via Shortcut-based Fine-Tuning</a></li><li><a href='https://huray.tistory.com/15' target='_blank'>[Paper Review] DPMNet : Dual-Path MLP -based Network for Aneurysm Image Segmentation</a></li><li><a href='https://huray.tistory.com/14' target='_blank'>[Paper Review] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(CycleGAN)</a></li></ul>
+
+### 📄 Publications
+
+- [**Abdominal Cone-Beam CT Visual Quality Enhancement Using 2.5D Conditional Diffusion Model**](https://ieeexplore.ieee.org/abstract/document/11515857)
+  - *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2026
