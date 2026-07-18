@@ -42,5 +42,13 @@
 
 ### 📄 Publications
 
-- [**Abdominal Cone-Beam CT Visual Quality Enhancement Using 2.5D Conditional Diffusion Model**](https://ieeexplore.ieee.org/abstract/document/11515857)
+#### 🌍 International Publications
+
+- [**Abdominal Cone-Beam CT Visual Quality Enhancement Using a 2.5D Conditional Diffusion Model**](https://ieeexplore.ieee.org/abstract/document/11515857)
   - *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2026
+
+#### 🇰🇷 Domestic Publications
+
+- **비정렬 CBCT-CT 변환을 위한 잠재 확산 기반 영상 화질 개선 기법**
+  - *Unpaired CBCT-to-CT Translation for Image Quality Enhancement Using a Latent Diffusion Model*
+  - *The Institute of Electronics and Information Engineers (IEIE, 대한전자공학회)*
