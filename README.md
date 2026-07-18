@@ -49,6 +49,5 @@
 
 #### 🇰🇷 Domestic Publications
 
-- **비정렬 CBCT-CT 변환을 위한 잠재 확산 기반 영상 화질 개선 기법**
-  - *Unpaired CBCT-to-CT Translation for Image Quality Enhancement Using a Latent Diffusion Model*
+- **비정렬 CBCT-CT 변환을 위한 잠재 확산 기반 영상 화질 개선 기법(Unpaired CBCT-to-CT Translation for Image Quality Enhancement Using a Latent Diffusion Model)***
   - *The Institute of Electronics and Information Engineers (IEIE, 대한전자공학회)*
